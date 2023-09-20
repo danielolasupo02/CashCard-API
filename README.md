@@ -2,10 +2,8 @@
 
 ## Description
 
-CashCard API is a fully functional, robust and secure REST API with all the CRUD operations implemented.
-It was build by utilizing the TDD(test-driven-development) and HTTP response status codes according to RFC specification.
-Additionally, the Cash Card Spring boot application was containerized and using the docker image of this application, I configured
-K8S deployment
+CashCard API is a fully functional, robust and secure REST API with all the CRUD operations implemented using Spring Framework.
+It was built by utilizing the TDD(test-driven-development) and HTTP response status codes according to RFC specification.
 
 ## Technological Stack
 
