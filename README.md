@@ -8,7 +8,7 @@ It was built by utilizing the TDD(test-driven-development) and HTTP response sta
 ## Technological Stack
 
 - Spring
-- Srping Web
+- Sping Web
 - Spring Boot
 - Spring Security
 
